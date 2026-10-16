@@ -1,0 +1,2522 @@
+[
+  {
+    "_id": {
+      "$oid": "6aa93d0e8e8a158bc423f46a"
+    },
+    "installation_id": "test-uuid-android-001",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "Android 14",
+    "device_model": "Samsung Galaxy S24",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "127.0.0.1",
+    "user_agent": "curl/8.7.1",
+    "first_installed_at": {
+      "$date": "2026-09-15T12:41:50.814Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-15T12:42:15.274Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstall_reason": "",
+    "uninstalled_at": null
+  },
+  {
+    "_id": {
+      "$oid": "6aa93d3f8e8a158bc423f46b"
+    },
+    "installation_id": "test-uuid-ios-002",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "iOS 17.5",
+    "device_model": "iPhone 15 Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "127.0.0.1",
+    "user_agent": "curl/8.7.1",
+    "first_installed_at": {
+      "$date": "2026-09-15T12:42:39.388Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-15T12:42:39.388Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6aaa376dfd4e2233649b0dfe"
+    },
+    "installation_id": "d4f4264c-f208-470f-bf12-8596d3a5fa6e",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "37",
+    "device_model": "sdk_gphone16k_arm64",
+    "user_id": {
+      "$oid": "6aa79ac9cf391f827203c1d4"
+    },
+    "client_id": {
+      "$oid": "6aa79ac2cf391f827203c1d3"
+    },
+    "ip_address": "127.0.0.1",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-16T06:30:05.070Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-17T08:15:38.913Z"
+    },
+    "open_count": 12,
+    "is_uninstalled": false,
+    "uninstall_reason": "",
+    "uninstalled_at": null
+  },
+  {
+    "_id": {
+      "$oid": "6aabcaedc9f73bd550575d56"
+    },
+    "installation_id": "8fb7c425-d3b9-4be0-a0f3-65ff46c501e6",
+    "platform": "ios",
+    "app_version": "1.0.1",
+    "os_version": "26.5",
+    "device_model": "iPhone 17",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "49.43.40.249:50495",
+    "user_agent": "UwoConnect/1 CFNetwork/3860.600.12 Darwin/25.5.0",
+    "first_installed_at": {
+      "$date": "2026-09-17T11:11:41.151Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-02T05:54:12.253Z"
+    },
+    "open_count": 66,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6aacef41d7af4f594524eb17"
+    },
+    "installation_id": "d026c919-18ca-4394-ad53-71eb9a227b42",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "26.5",
+    "device_model": "iPhone 17",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "127.0.0.1",
+    "user_agent": "Expo/2.31.6 CFNetwork/3860.600.12 Darwin/25.5.0",
+    "first_installed_at": {
+      "$date": "2026-09-18T07:58:57.574Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-18T07:58:57.574Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstall_reason": "",
+    "uninstalled_at": null
+  },
+  {
+    "_id": {
+      "$oid": "6aad418c71103fca1005f431"
+    },
+    "installation_id": "025a22ad-82fd-417c-9611-27507313345f",
+    "platform": "android",
+    "app_version": "1.0.1",
+    "os_version": "37",
+    "device_model": "sdk_gphone16k_arm64",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "49.36.17.154:55316",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-18T13:50:04.826Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-08T07:14:33.371Z"
+    },
+    "open_count": 38,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6aae4b252a5105a118e20b0c"
+    },
+    "installation_id": "web_client_6a5338debec6daea1165d2b3",
+    "platform": "web",
+    "app_version": "Web v1.0",
+    "os_version": "Web / Desktop",
+    "device_model": "Web / Desktop \u2022 Web Browser",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "17.185.64.68:9066",
+    "user_agent": "UWOConnect/3 CFNetwork/3860.600.12 Darwin/25.5.0",
+    "first_installed_at": {
+      "$date": "2026-09-19T08:43:17.923Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-10T07:48:14.134Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6aae4b262a5105a118e20b0d"
+    },
+    "installation_id": "web_client_6aa78b1bcf391f827203c1b7",
+    "platform": "web",
+    "app_version": "Web v1.0",
+    "os_version": "Windows 10/11",
+    "device_model": "Windows 10/11 \u2022 Google Chrome",
+    "user_id": {
+      "$oid": "6aa78b1dcf391f827203c1b8"
+    },
+    "client_id": {
+      "$oid": "6aa78b1bcf391f827203c1b7"
+    },
+    "ip_address": "49.36.17.154:57922",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "first_installed_at": {
+      "$date": "2026-09-19T08:43:18.038Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-07T06:05:39.287Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6aae4b262a5105a118e20b0e"
+    },
+    "installation_id": "web_client_6aa79ac2cf391f827203c1d3",
+    "platform": "web",
+    "app_version": "Web v1.0",
+    "os_version": "Windows 10/11",
+    "device_model": "Windows 10/11 \u2022 Google Chrome",
+    "user_id": {
+      "$oid": "6aa79ac9cf391f827203c1d4"
+    },
+    "client_id": {
+      "$oid": "6aa79ac2cf391f827203c1d3"
+    },
+    "ip_address": "49.36.17.154:58806",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "first_installed_at": {
+      "$date": "2026-09-19T08:43:18.148Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-07T06:05:12.988Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6aae4b262a5105a118e20b11"
+    },
+    "installation_id": "web_client_6aacfca5c8ac65aeeb5380c5",
+    "platform": "web",
+    "app_version": "Web v1.0",
+    "os_version": "macOS",
+    "device_model": "macOS \u2022 Google Chrome",
+    "user_id": {
+      "$oid": "6a38f92e3a517dd9159ce0c0"
+    },
+    "client_id": {
+      "$oid": "6aacfca5c8ac65aeeb5380c5"
+    },
+    "ip_address": "49.36.17.154:59149",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "first_installed_at": {
+      "$date": "2026-09-19T08:43:18.488Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-10T12:11:42.353Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6aae80db04d914a6f144879a"
+    },
+    "installation_id": "8aa5360b-19d5-48d8-9869-ac42986e322b",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "36",
+    "device_model": "SM-S721B",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "49.43.42.149:48806",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-19T12:32:27.372Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-19T12:32:27.838Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstall_reason": "",
+    "uninstalled_at": null
+  },
+  {
+    "_id": {
+      "$oid": "6aae864304d914a6f14487a0"
+    },
+    "installation_id": "3be44b2c-0c44-415a-a628-2bb1ad651848",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "66.249.88.96:64809",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-19T12:55:31.118Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-19T12:56:39.376Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstall_reason": "",
+    "uninstalled_at": null
+  },
+  {
+    "_id": {
+      "$oid": "6aae864304d914a6f14487a1"
+    },
+    "installation_id": "c32b80fd-be30-4069-8d38-179c70d9d9be",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "66.249.88.96:64809",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-19T12:55:31.146Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-19T12:55:31.146Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstall_reason": "",
+    "uninstalled_at": null
+  },
+  {
+    "_id": {
+      "$oid": "6aae864304d914a6f14487a2"
+    },
+    "installation_id": "b131b336-7d19-423d-8cb1-7c1b82acffee",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "74.125.209.66:45367",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-19T12:55:31.576Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-19T12:55:31.576Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstall_reason": "",
+    "uninstalled_at": null
+  },
+  {
+    "_id": {
+      "$oid": "6aae867a04d914a6f14487a4"
+    },
+    "installation_id": "20ee682f-7711-409a-bd04-77e4cba4a6ad",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "74.125.209.66:45367",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-19T12:56:26.429Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-19T12:56:26.429Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstall_reason": "",
+    "uninstalled_at": null
+  },
+  {
+    "_id": {
+      "$oid": "6aae879204d914a6f14487a7"
+    },
+    "installation_id": "e18d427d-c0b8-4e30-8d54-0db2eb865262",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "192.178.11.1:36957",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-19T13:01:06.949Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-19T13:02:27.297Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstall_reason": "",
+    "uninstalled_at": null
+  },
+  {
+    "_id": {
+      "$oid": "6aae879304d914a6f14487a8"
+    },
+    "installation_id": "e80c3875-8a53-4340-bd1d-d2e2c09922e2",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "192.178.11.5:41516",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-19T13:01:07.124Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-19T13:01:07.124Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstall_reason": "",
+    "uninstalled_at": null
+  },
+  {
+    "_id": {
+      "$oid": "6aae8d7204d914a6f14487b6"
+    },
+    "installation_id": "57624a2d-8b8a-4a37-b7d2-632c4879e85f",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "74.125.209.66:54578",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-19T13:26:10.548Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-19T13:26:10.548Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstall_reason": "",
+    "uninstalled_at": null
+  },
+  {
+    "_id": {
+      "$oid": "6aae8d7204d914a6f14487b7"
+    },
+    "installation_id": "33e3a752-3314-4611-991e-f266324620af",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "74.125.209.65:40821",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-19T13:26:10.590Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-19T13:27:11.087Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstall_reason": "",
+    "uninstalled_at": null
+  },
+  {
+    "_id": {
+      "$oid": "6aae8d7304d914a6f14487b8"
+    },
+    "installation_id": "c0f0f339-5bbc-4e4f-94cf-cc3b46c70732",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "sdk_gphone_arm64",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "108.177.18.209:4681",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-19T13:26:11.636Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-19T13:26:11.636Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstall_reason": "",
+    "uninstalled_at": null
+  },
+  {
+    "_id": {
+      "$oid": "6aae8d7304d914a6f14487b9"
+    },
+    "installation_id": "8ee497b2-ce9a-4adb-bf0f-0877fc334609",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "sdk_gphone_arm64",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "108.177.18.209:3710",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-19T13:26:11.707Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-19T13:26:11.707Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstall_reason": "",
+    "uninstalled_at": null
+  },
+  {
+    "_id": {
+      "$oid": "6aaf88e904d914a6f1448811"
+    },
+    "installation_id": "9015dbe0-2ae5-4fc7-90b3-ab99e05a1203",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "36",
+    "device_model": "SM-S721B",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "106.76.94.13:23499",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-20T07:19:05.912Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-21T10:23:55.117Z"
+    },
+    "open_count": 11,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6aaf88e904d914a6f1448810"
+    },
+    "installation_id": "13af45b1-e165-4f76-8105-74fdcb4ad62d",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "36",
+    "device_model": "SM-S721B",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "152.58.56.31:58020",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-20T07:19:05.904Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-20T07:19:05.904Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstall_reason": "",
+    "uninstalled_at": null
+  },
+  {
+    "_id": {
+      "$oid": "6ab0dc9b04d914a6f14488ae"
+    },
+    "installation_id": "8283a070-776a-481f-9c60-dca35f974e6e",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "27.0",
+    "device_model": "iPhone",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "139.178.130.77:48484",
+    "user_agent": "UwoConnect/2 CFNetwork/3896.100.1.2.1 Darwin/27.0.0",
+    "first_installed_at": {
+      "$date": "2026-09-21T07:28:27.521Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-21T07:28:27.521Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstall_reason": "",
+    "uninstalled_at": null
+  },
+  {
+    "_id": {
+      "$oid": "6ab0dc9b04d914a6f14488af"
+    },
+    "installation_id": "2aa0f5eb-8fba-4d0e-83cf-a67129d67c6d",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "27.0",
+    "device_model": "iPhone",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "139.178.130.77:33609",
+    "user_agent": "UwoConnect/2 CFNetwork/3896.100.1.2.1 Darwin/27.0.0",
+    "first_installed_at": {
+      "$date": "2026-09-21T07:28:27.561Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-21T07:28:27.561Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstall_reason": "",
+    "uninstalled_at": null
+  },
+  {
+    "_id": {
+      "$oid": "6ab0dcc004d914a6f14488b0"
+    },
+    "installation_id": "0829213e-8eee-4513-a68d-86091401ce3b",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "26.5",
+    "device_model": "iPhone",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "17.185.64.89:37062",
+    "user_agent": "UwoConnect/2 CFNetwork/3860.600.12 Darwin/25.5.0",
+    "first_installed_at": {
+      "$date": "2026-09-21T07:29:04.775Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-21T07:29:04.775Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstall_reason": "",
+    "uninstalled_at": null
+  },
+  {
+    "_id": {
+      "$oid": "6ab0dcc004d914a6f14488b1"
+    },
+    "installation_id": "fbeca865-a1da-4d1d-befb-b9530691ee22",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "26.5",
+    "device_model": "iPhone",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "17.185.64.89:46391",
+    "user_agent": "UwoConnect/2 CFNetwork/3860.600.12 Darwin/25.5.0",
+    "first_installed_at": {
+      "$date": "2026-09-21T07:29:04.807Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-21T07:29:04.807Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstall_reason": "",
+    "uninstalled_at": null
+  },
+  {
+    "_id": {
+      "$oid": "6ab104358eb6435048f9a995"
+    },
+    "installation_id": "b885cb43-74f1-4b99-9b4a-5a0dbbc850dc",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "26.6.1",
+    "device_model": "iPhone",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "49.36.17.25:54236",
+    "user_agent": "UwoConnect/2 CFNetwork/3860.700.1 Darwin/25.6.0",
+    "first_installed_at": {
+      "$date": "2026-09-21T10:17:25.281Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-21T10:57:19.760Z"
+    },
+    "open_count": 6,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ab10e068eb6435048f9a99c"
+    },
+    "installation_id": "c36be4c0-0f66-484d-bc1b-15ccd92f8e55",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "26.6.1",
+    "device_model": "iPhone",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "49.36.17.25:59727",
+    "user_agent": "UwoConnect/2 CFNetwork/3860.700.1 Darwin/25.6.0",
+    "first_installed_at": {
+      "$date": "2026-09-21T10:59:18.616Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-22T09:18:22.857Z"
+    },
+    "open_count": 7,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ab10e068eb6435048f9a99d"
+    },
+    "installation_id": "fa5d8ac7-1653-4fc9-901e-e87612e9923c",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "26.6.1",
+    "device_model": "iPhone",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "49.36.17.25:58494",
+    "user_agent": "UwoConnect/2 CFNetwork/3860.700.1 Darwin/25.6.0",
+    "first_installed_at": {
+      "$date": "2026-09-21T10:59:18.639Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-21T10:59:18.639Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ab12b618eb6435048f9a9ad"
+    },
+    "installation_id": "c3d58ba2-601e-4dd7-866e-f10097416599",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "26.5",
+    "device_model": "iPhone",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "17.185.64.81:20397",
+    "user_agent": "UwoConnect/2 CFNetwork/3860.600.12 Darwin/25.5.0",
+    "first_installed_at": {
+      "$date": "2026-09-21T13:04:33.005Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-21T13:07:44.262Z"
+    },
+    "open_count": 3,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ab12bbe8eb6435048f9a9af"
+    },
+    "installation_id": "9f88e06e-12a5-4913-9525-983293e98cbc",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "27.0",
+    "device_model": "iPhone",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "139.178.129.66:37973",
+    "user_agent": "UwoConnect/2 CFNetwork/3896.100.1.2.1 Darwin/27.0.0",
+    "first_installed_at": {
+      "$date": "2026-09-21T13:06:06.738Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-21T13:06:06.738Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ab12cc58eb6435048f9a9b1"
+    },
+    "installation_id": "cdde1fae-a1aa-4b32-9dc6-7fa041783c20",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "27.0",
+    "device_model": "iPhone",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "139.178.131.66:47904",
+    "user_agent": "UwoConnect/6 CFNetwork/3896.100.1.2.1 Darwin/27.0.0",
+    "first_installed_at": {
+      "$date": "2026-09-21T13:10:29.926Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-21T13:10:29.926Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ab12cc58eb6435048f9a9b2"
+    },
+    "installation_id": "9ed452d1-79ac-4674-8fec-7a7b6f9467e8",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "27.0",
+    "device_model": "iPhone",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "139.178.131.66:33819",
+    "user_agent": "UwoConnect/6 CFNetwork/3896.100.1.2.1 Darwin/27.0.0",
+    "first_installed_at": {
+      "$date": "2026-09-21T13:10:29.997Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-21T13:10:29.997Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ab12ccc8eb6435048f9a9b3"
+    },
+    "installation_id": "ec97fea0-17cd-43fc-9306-31e7b9c0d138",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "26.5",
+    "device_model": "iPhone",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "17.185.64.77:28428",
+    "user_agent": "UwoConnect/6 CFNetwork/3860.600.12 Darwin/25.5.0",
+    "first_installed_at": {
+      "$date": "2026-09-21T13:10:36.192Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-22T06:42:04.497Z"
+    },
+    "open_count": 3,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ab375a5e3bfae49251c0078"
+    },
+    "installation_id": "inst_1790145955",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "",
+    "device_model": "",
+    "user_id": {
+      "$oid": "6a38f92e3a517dd9159ce0c0"
+    },
+    "client_id": {
+      "$oid": "6aacfca5c8ac65aeeb5380c5"
+    },
+    "ip_address": "127.0.0.1",
+    "user_agent": "",
+    "first_installed_at": {
+      "$date": "2026-09-23T06:45:57.404Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-23T06:45:57.404Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ab3b5ad97fc92190c3475fc"
+    },
+    "installation_id": "web_client_6ab3b5ac97fc92190c3475f0",
+    "platform": "web",
+    "app_version": "Web v1.0",
+    "os_version": "macOS",
+    "device_model": "macOS \u2022 Google Chrome",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36",
+    "first_installed_at": {
+      "$date": "2026-09-23T11:19:09.862Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-23T11:19:09.862Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ab3b5ddf333ae019a43fc57"
+    },
+    "installation_id": "web_client_6ab3b5dbf333ae019a43fc4b",
+    "platform": "web",
+    "app_version": "Web v1.0",
+    "os_version": "macOS",
+    "device_model": "macOS \u2022 Google Chrome",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36",
+    "first_installed_at": {
+      "$date": "2026-09-23T11:19:57.440Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-23T11:19:57.440Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ab6559d0d63446d977d75b6"
+    },
+    "installation_id": "8fa4915a-e55f-4003-9abc-98aeec9d5f0f",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "37",
+    "device_model": "Pixel 9a",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "49.43.42.175:60752",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-25T11:06:05.461Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T07:51:31.883Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ab6559d0d63446d977d75b7"
+    },
+    "installation_id": "2b9760c1-a07a-4e00-acdd-028409595a65",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "37",
+    "device_model": "Pixel 9a",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "49.43.40.25:36098",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-25T11:06:05.572Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-25T11:06:05.572Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ab6e9fb0d63446d977d7639"
+    },
+    "installation_id": "f480fdf5-b569-48f8-b984-2078737de1bc",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "27.0",
+    "device_model": "iPad",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "17.198.151.114:57089",
+    "user_agent": "UwoConnect/6 CFNetwork/3896.100.1.2.1 Darwin/27.0.0",
+    "first_installed_at": {
+      "$date": "2026-09-25T21:39:07.416Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-25T21:39:53.010Z"
+    },
+    "open_count": 3,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6aba3a4f401842a9f6a7dd00"
+    },
+    "installation_id": "24f87db6-945d-4ac1-a938-b8dbaf6413ec",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "27.0",
+    "device_model": "iPhone",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "139.178.129.11:48199",
+    "user_agent": "UwoConnect/6 CFNetwork/3896.100.1.2.1 Darwin/27.0.0",
+    "first_installed_at": {
+      "$date": "2026-09-28T09:58:39.970Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-28T09:58:39.970Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6aba3a50401842a9f6a7dd01"
+    },
+    "installation_id": "1087fe7d-a313-4870-964b-0675b9b4b594",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "27.0",
+    "device_model": "iPhone",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "139.178.129.11:38688",
+    "user_agent": "UwoConnect/6 CFNetwork/3896.100.1.2.1 Darwin/27.0.0",
+    "first_installed_at": {
+      "$date": "2026-09-28T09:58:40.081Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-28T09:58:40.081Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6aba3a77401842a9f6a7dd02"
+    },
+    "installation_id": "682a6886-3bb0-4e99-955c-03cf2c327422",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "26.5",
+    "device_model": "iPhone",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "17.185.64.85:42314",
+    "user_agent": "UwoConnect/6 CFNetwork/3860.600.12 Darwin/25.5.0",
+    "first_installed_at": {
+      "$date": "2026-09-28T09:59:19.052Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-28T10:04:59.311Z"
+    },
+    "open_count": 3,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6aba96df401842a9f6a7dd2c"
+    },
+    "installation_id": "cbb513fe-429b-4a8e-92fe-ae39a469ba08",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "35",
+    "device_model": "SM-M145F",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "110.224.167.254:51690",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-28T16:33:35.548Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-28T16:33:35.548Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6aba96df401842a9f6a7dd2d"
+    },
+    "installation_id": "5347a275-1eef-4b51-babe-5b741a7a4c5e",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "35",
+    "device_model": "SM-M145F",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "110.224.162.213:53022",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-28T16:33:35.710Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-02T10:41:55.164Z"
+    },
+    "open_count": 4,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb7635401842a9f6a7dd43"
+    },
+    "installation_id": "b44fe726-8d3a-4fca-b5b5-2aec9cf50af2",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "74.125.209.65:54834",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T08:26:29.546Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T08:27:31.042Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb7635401842a9f6a7dd44"
+    },
+    "installation_id": "606c4e0f-d530-4b3b-b05d-a69f7c964f97",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "74.125.209.64:34994",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T08:26:29.566Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T08:26:29.566Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb767a401842a9f6a7dd46"
+    },
+    "installation_id": "5d1f0030-568b-4a8b-97c3-86906c7ffb93",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "66.102.8.164:40443",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T08:27:38.261Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T08:27:38.261Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb767a401842a9f6a7dd47"
+    },
+    "installation_id": "fed87fdc-44f0-4113-b37d-6b7d0ff10848",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "66.102.8.164:40443",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T08:27:38.404Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T08:28:41.494Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb77fd401842a9f6a7dd49"
+    },
+    "installation_id": "e534c5e2-d897-4f91-bf60-132d4c4ff1da",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "74.125.209.64:48249",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T08:34:05.722Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T08:35:22.653Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb7d21401842a9f6a7dd4b"
+    },
+    "installation_id": "bb053e3a-a0d3-438e-964c-bd752bf9ae55",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "74.125.209.65:46656",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T08:56:01.954Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T08:56:01.954Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb7d23401842a9f6a7dd4c"
+    },
+    "installation_id": "9ccc5e3a-64a2-4936-9a16-3a866e383435",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "74.125.209.64:62831",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T08:56:03.966Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T09:15:57.175Z"
+    },
+    "open_count": 6,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb809b401842a9f6a7dd61"
+    },
+    "installation_id": "97555675-e09d-4c9f-aaa1-82e804d42ee0",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "64.233.172.105:43428",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T09:10:51.902Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T09:14:31.802Z"
+    },
+    "open_count": 3,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb809b401842a9f6a7dd62"
+    },
+    "installation_id": "7600c7bb-ef54-45a2-b2fa-51c597dad80b",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "64.233.172.106:40550",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T09:10:51.952Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T09:10:51.952Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb80e7401842a9f6a7dd64"
+    },
+    "installation_id": "d3725628-61fc-4cd4-88ca-8bf850065468",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "66.102.8.165:41903",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T09:12:07.098Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T09:13:30.321Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb80e7401842a9f6a7dd65"
+    },
+    "installation_id": "00d6ad59-bb35-4e90-a71e-402828de3ef6",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "66.102.8.163:49428",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T09:12:07.118Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T09:12:07.118Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb81e4401842a9f6a7dd70"
+    },
+    "installation_id": "d9360167-f638-4eb3-9589-84311f1daf9f",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "74.125.209.65:38075",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T09:16:20.094Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T09:17:27.019Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb81e4401842a9f6a7dd71"
+    },
+    "installation_id": "23ad8f0e-89ad-4a16-91eb-eaef231b4321",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "74.125.209.66:54317",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T09:16:20.120Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T09:16:20.120Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb829d401842a9f6a7dd73"
+    },
+    "installation_id": "2b9c4172-6464-40a0-980a-0d5b2ec3b5cd",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "74.125.209.66:54317",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T09:19:25.525Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T09:19:25.525Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb829d401842a9f6a7dd74"
+    },
+    "installation_id": "7d3072ac-f922-406f-a172-2811ed917513",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "74.125.209.65:38075",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T09:19:25.536Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T09:20:22.240Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb82fc401842a9f6a7dd77"
+    },
+    "installation_id": "5276c145-0077-4ff5-a6e8-6dc7103b3111",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "66.249.88.105:60998",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T09:21:00.388Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T09:21:00.388Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb82fc401842a9f6a7dd78"
+    },
+    "installation_id": "5ad87106-5fbb-49de-a449-b3fdf55d818c",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "66.249.88.104:36791",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T09:21:00.416Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T09:21:52.767Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb83a5401842a9f6a7dd7a"
+    },
+    "installation_id": "fde54178-06f8-4001-90c9-77467026f7ad",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "74.125.209.64:45544",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T09:23:49.090Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T09:23:49.090Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb83a5401842a9f6a7dd7b"
+    },
+    "installation_id": "7df5495b-7b08-4b16-9311-7316c76a0956",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "74.125.209.64:64531",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T09:23:49.109Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T09:24:56.118Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb86b3401842a9f6a7dd7d"
+    },
+    "installation_id": "5607cfa8-7dbc-4b11-9dc9-505e41a0b8b9",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "66.102.8.163:58343",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T09:36:51.091Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T09:36:51.091Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb86b3401842a9f6a7dd7e"
+    },
+    "installation_id": "dee90db5-6101-46a0-9319-93178e5e5c9e",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "66.102.8.164:52424",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T09:36:51.201Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T09:37:47.826Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb870d401842a9f6a7dd80"
+    },
+    "installation_id": "5caefb86-6cd5-480e-83b5-1815598c36ac",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "66.102.8.165:57234",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T09:38:21.948Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T09:39:29.410Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb870e401842a9f6a7dd81"
+    },
+    "installation_id": "10a9a51a-16ec-4bfa-b7f8-697b2bc48326",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "66.102.8.163:49366",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T09:38:22.639Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T09:38:22.639Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb8775401842a9f6a7dd83"
+    },
+    "installation_id": "f41e4d41-481d-4678-b226-4a226daebfe2",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "66.249.80.5:35869",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T09:40:05.187Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T09:40:05.187Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb8775401842a9f6a7dd84"
+    },
+    "installation_id": "101d82c6-b66a-46db-97cc-dbe66d574ad4",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "66.249.80.1:52291",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T09:40:05.226Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T09:40:57.923Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb87b0401842a9f6a7dd86"
+    },
+    "installation_id": "552c673b-4ac2-4fd9-8343-31856023779c",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "64.233.172.105:49306",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T09:41:04.835Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T09:41:04.835Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb87b0401842a9f6a7dd87"
+    },
+    "installation_id": "c27d7bbc-ee23-44cb-854a-f56bfdb99009",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "64.233.172.104:45858",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T09:41:04.892Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T09:42:11.852Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb8a1d401842a9f6a7dd8c"
+    },
+    "installation_id": "80743fd5-d0b8-4846-9f29-43105af5574a",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "66.102.8.165:40085",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T09:51:25.226Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T10:09:56.340Z"
+    },
+    "open_count": 4,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb8a1d401842a9f6a7dd8d"
+    },
+    "installation_id": "b799d5fb-b75a-4eb2-b10b-6c856d45a389",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "66.102.8.164:38319",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T09:51:25.254Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T09:51:25.254Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb8ca1401842a9f6a7dd90"
+    },
+    "installation_id": "e9148386-58ea-4432-aeee-47019bc13c1a",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "74.125.209.64:64860",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T10:02:09.277Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T10:02:09.279Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb8ca1401842a9f6a7dd91"
+    },
+    "installation_id": "845e49e7-be2e-4006-b2b1-4a0adb05f810",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "74.125.209.66:46302",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-09-29T10:02:09.389Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T10:21:42.529Z"
+    },
+    "open_count": 4,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb8ffe401842a9f6a7dd95"
+    },
+    "installation_id": "35baa7e8-f2ed-409e-941f-88e4e6350c3b",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "27.0",
+    "device_model": "iPhone",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "139.178.131.72:36947",
+    "user_agent": "UWOConnect/13 CFNetwork/3896.100.1.2.1 Darwin/27.0.0",
+    "first_installed_at": {
+      "$date": "2026-09-29T10:16:30.382Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T10:16:30.623Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abb9035401842a9f6a7dd96"
+    },
+    "installation_id": "3964ab18-c029-46f1-8031-4cb0ab1a8359",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "26.5",
+    "device_model": "iPhone",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "17.185.64.68:25557",
+    "user_agent": "UWOConnect/13 CFNetwork/3860.600.12 Darwin/25.5.0",
+    "first_installed_at": {
+      "$date": "2026-09-29T10:17:25.287Z"
+    },
+    "last_active_at": {
+      "$date": "2026-09-29T10:21:27.822Z"
+    },
+    "open_count": 3,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abdff49ef502d4429359611"
+    },
+    "installation_id": "528caa04-2914-467d-918a-e59150427cdc",
+    "platform": "ios",
+    "app_version": "1.0.1",
+    "os_version": "26.6.1",
+    "device_model": "iPhone",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "49.36.17.154:62190",
+    "user_agent": "UWOConnect/3 CFNetwork/3860.700.1 Darwin/25.6.0",
+    "first_installed_at": {
+      "$date": "2026-10-01T06:35:53.055Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-09T05:44:06.365Z"
+    },
+    "open_count": 5,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abdff49ef502d4429359612"
+    },
+    "installation_id": "bbc211a7-0f8a-419a-b60f-2af6130bbbbc",
+    "platform": "ios",
+    "app_version": "1.0.1",
+    "os_version": "26.6.1",
+    "device_model": "iPhone",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "49.36.17.154:57991",
+    "user_agent": "UWOConnect/3 CFNetwork/3860.700.1 Darwin/25.6.0",
+    "first_installed_at": {
+      "$date": "2026-10-01T06:35:53.092Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-01T06:35:53.092Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abe009def502d4429359614"
+    },
+    "installation_id": "cd95b87e-24d2-4606-860b-c214f473515a",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "26.5",
+    "device_model": "iPhone",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "17.185.64.87:18114",
+    "user_agent": "UWOConnect/13 CFNetwork/3860.600.12 Darwin/25.5.0",
+    "first_installed_at": {
+      "$date": "2026-10-01T06:41:33.777Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-01T06:43:10.141Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abe009def502d4429359615"
+    },
+    "installation_id": "5353a632-8fa3-4697-a3d7-80c290fd9ea8",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "26.5",
+    "device_model": "iPhone",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "17.185.64.113:39383",
+    "user_agent": "UWOConnect/13 CFNetwork/3860.600.12 Darwin/25.5.0",
+    "first_installed_at": {
+      "$date": "2026-10-01T06:41:33.858Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-01T06:41:33.858Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abe1203ef502d4429359618"
+    },
+    "installation_id": "709b71ce-ca4e-4ad3-9be1-51c2e9e80642",
+    "platform": "ios",
+    "app_version": "1.0.1",
+    "os_version": "27.0.1",
+    "device_model": "iPhone",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "139.178.129.64:46154",
+    "user_agent": "UWOConnect/3 CFNetwork/3896.100.1.2.1 Darwin/27.0.0",
+    "first_installed_at": {
+      "$date": "2026-10-01T07:55:47.521Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-01T07:55:47.537Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abe1427ef502d4429359619"
+    },
+    "installation_id": "3ab646cf-026f-4c3e-a2f3-67dba4127b12",
+    "platform": "ios",
+    "app_version": "1.0.1",
+    "os_version": "26.5",
+    "device_model": "iPhone",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "17.185.64.103:12313",
+    "user_agent": "UWOConnect/3 CFNetwork/3860.600.12 Darwin/25.5.0",
+    "first_installed_at": {
+      "$date": "2026-10-01T08:04:55.816Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-01T08:04:55.916Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6abf55f1ef502d4429359694"
+    },
+    "installation_id": "web_client_6abe3049ef502d4429359621",
+    "platform": "web",
+    "app_version": "Web v1.0",
+    "os_version": "macOS",
+    "device_model": "macOS \u2022 Google Chrome",
+    "user_id": {
+      "$oid": "6abe304cef502d4429359622"
+    },
+    "client_id": {
+      "$oid": "6abe3049ef502d4429359621"
+    },
+    "ip_address": "49.43.40.249:51591",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "first_installed_at": {
+      "$date": "2026-10-02T06:57:53.906Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-02T06:57:53.906Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ac365856a3c61213da5ed9a"
+    },
+    "installation_id": "web_client_6abf6653ef502d44293596a0",
+    "platform": "web",
+    "app_version": "Web v1.0",
+    "os_version": "Windows 10/11",
+    "device_model": "Windows 10/11 \u2022 Google Chrome",
+    "user_id": {
+      "$oid": "6abf6655ef502d44293596a1"
+    },
+    "client_id": {
+      "$oid": "6abf6653ef502d44293596a0"
+    },
+    "ip_address": "49.36.17.154:55245",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "first_installed_at": {
+      "$date": "2026-10-05T08:53:25.417Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-06T06:19:37.396Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ac8a9716a3c61213da5f076"
+    },
+    "installation_id": "b5d5bc07-c491-4db5-8227-55da056376ff",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "66.249.88.105:55218",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-10-09T08:44:33.532Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-09T08:44:33.532Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ac8a9c46a3c61213da5f077"
+    },
+    "installation_id": "d7f65374-571d-4c1a-9d6e-565c304f5d31",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "192.178.15.136:49795",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-10-09T08:45:56.427Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-09T08:45:56.427Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ac8a9c46a3c61213da5f078"
+    },
+    "installation_id": "6a217f84-ee10-4989-a3b3-e637dbe97e7d",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "192.178.15.136:37614",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-10-09T08:45:56.517Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-09T08:50:10.918Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ac8aa736a3c61213da5f07d"
+    },
+    "installation_id": "a546b579-39b8-4c43-a516-cc7992b7bba0",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "74.125.209.65:53418",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-10-09T08:48:51.366Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-09T08:48:51.366Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ac8aa736a3c61213da5f07e"
+    },
+    "installation_id": "51441f9a-543f-45b3-89a4-014cc6a57184",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "74.125.209.66:64379",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-10-09T08:48:51.425Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-09T08:48:51.425Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ac8afb76a3c61213da5f081"
+    },
+    "installation_id": "e8ebf8eb-c8d9-4163-8c1a-eed1d9d7a3f8",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "192.178.15.128:65065",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-10-09T09:11:19.946Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-09T09:24:33.671Z"
+    },
+    "open_count": 4,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ac8afb86a3c61213da5f082"
+    },
+    "installation_id": "b3bb5481-48e6-4ab0-9c85-13a355deb0ef",
+    "platform": "android",
+    "app_version": "1.0.0",
+    "os_version": "30",
+    "device_model": "OnePlus8Pro",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "192.178.15.136:44580",
+    "user_agent": "okhttp/4.9.2",
+    "first_installed_at": {
+      "$date": "2026-10-09T09:11:20.065Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-09T09:11:20.065Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ac911196a3c61213da5f09d"
+    },
+    "installation_id": "4dc6a282-2545-4ab6-8e13-6b63145ad95b",
+    "platform": "ios",
+    "app_version": "1.0.1",
+    "os_version": "27.0.1",
+    "device_model": "iPhone",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "17.11.30.69:43289",
+    "user_agent": "UWOConnect/3 CFNetwork/3896.100.1.2.1 Darwin/27.0.0",
+    "first_installed_at": {
+      "$date": "2026-10-09T16:06:49.902Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-09T16:07:30.630Z"
+    },
+    "open_count": 3,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ac9ed6e6a3c61213da5f0a8"
+    },
+    "installation_id": "86e157e5-1dd1-4812-b308-d5ac89d99aeb",
+    "platform": "ios",
+    "app_version": "1.0.1",
+    "os_version": "26.5",
+    "device_model": "iPhone",
+    "user_id": {
+      "$oid": "6a8989d58cc343d29b3fb103"
+    },
+    "client_id": {
+      "$oid": "6a5338debec6daea1165d2b3"
+    },
+    "ip_address": "17.185.64.68:34648",
+    "user_agent": "UWOConnect/3 CFNetwork/3860.600.12 Darwin/25.5.0",
+    "first_installed_at": {
+      "$date": "2026-10-10T07:46:54.906Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-10T07:48:19.166Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ac9ed6e6a3c61213da5f0a9"
+    },
+    "installation_id": "4e36dcf0-6b14-4d6a-aa0f-279f55094265",
+    "platform": "ios",
+    "app_version": "1.0.1",
+    "os_version": "26.5",
+    "device_model": "iPhone",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "17.185.64.96:2072",
+    "user_agent": "UWOConnect/3 CFNetwork/3860.600.12 Darwin/25.5.0",
+    "first_installed_at": {
+      "$date": "2026-10-10T07:46:54.940Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-10T07:46:54.940Z"
+    },
+    "open_count": 1,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  },
+  {
+    "_id": {
+      "$oid": "6ac9ed7d6a3c61213da5f0aa"
+    },
+    "installation_id": "ccbce8a2-a38a-4a7e-83a6-0a12870933b8",
+    "platform": "ios",
+    "app_version": "1.0.1",
+    "os_version": "27.0.1",
+    "device_model": "iPhone",
+    "user_id": null,
+    "client_id": null,
+    "ip_address": "139.178.129.7:48745",
+    "user_agent": "UWOConnect/3 CFNetwork/3896.100.1.2.1 Darwin/27.0.0",
+    "first_installed_at": {
+      "$date": "2026-10-10T07:47:09.898Z"
+    },
+    "last_active_at": {
+      "$date": "2026-10-10T07:47:11.086Z"
+    },
+    "open_count": 2,
+    "is_uninstalled": false,
+    "uninstalled_at": null,
+    "uninstall_reason": ""
+  }
+]

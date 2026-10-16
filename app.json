@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "e912262f-1ac3-47c3-8078-b794eac7e4cf"
+      }
+    },
+    "android": {
+      "package": "com.uwo.uwoconnect_app"
+    }
+  }
+}
